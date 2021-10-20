@@ -1,2 +1,4 @@
 i am eating food
-added from local repository
+
+compare remote with local file
+
